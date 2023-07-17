@@ -1,0 +1,9 @@
+# aptprefs
+
+Package: thunar
+Pin: origin *
+Pin-Priority: -1
+
+Package: thunar-volman
+Pin: origin *
+Pin-Priority: -1

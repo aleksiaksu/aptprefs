@@ -1,0 +1,65 @@
+# aptprefs
+
+Package: www-browser
+Pin: origin *
+Pin-Priority: -1
+
+Package: firefox
+Pin: origin *
+Pin-Priority: -1
+
+Package: firefox-esr
+Pin: origin *
+Pin-Priority: -1
+
+Package: epiphany-browser
+Pin: origin *
+Pin-Priority: -1
+
+Package: epiphany-browser-data
+Pin: origin *
+Pin-Priority: -1
+
+Package: chromium
+Pin: origin *
+Pin-Priority: -1
+
+Package: konqueror
+Pin: origin *
+Pin-Priority: -1
+
+Package: epiphany-browser
+Pin: origin *
+Pin-Priority: -1
+
+Package: surf
+Pin: origin *
+Pin-Priority: -1
+
+Package: torbrowser-launcher
+Pin: origin *
+Pin-Priority: -1
+
+Package: torbrowser
+Pin: origin *
+Pin-Priority: -1
+
+Package: falkon
+Pin: origin *
+Pin-Priority: -1
+
+Package: midori
+Pin: origin *
+Pin-Priority: -1
+
+Package: qutebrowser
+Pin: origin *
+Pin-Priority: -1
+
+Package: luakit
+Pin: origin *
+Pin-Priority: -1
+
+Package: hv3
+Pin: origin *
+Pin-Priority: -1

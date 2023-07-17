@@ -1,0 +1,9 @@
+# aptprefs
+
+Package: xfce4
+Pin: origin *
+Pin-Priority: -1
+
+Package: xfce4-goodies
+Pin: origin *
+Pin-Priority: -1
